@@ -79,4 +79,4 @@
  ;; Rose is red, violet's blue. Life's ordered: Org assists you.
  :macros {}
  :favorites []
- :graph/settings {:journal? true}}
+ :graph/settings {:journal? false}}
